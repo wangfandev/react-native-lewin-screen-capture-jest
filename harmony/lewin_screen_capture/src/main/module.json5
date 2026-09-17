@@ -1,0 +1,13 @@
+{
+  "module": {
+    "name": "lewin_screen_capture",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ],
+    "requestPermissions": [
+    ]
+  }
+}

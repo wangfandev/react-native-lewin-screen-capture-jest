@@ -1,0 +1,8 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "skipLibCheck": true
+  },
+  "include": ["App.tsx", "declarations.d.ts"],
+  "exclude": ["node_modules", "harmony"]
+}
